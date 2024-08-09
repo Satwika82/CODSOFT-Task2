@@ -1,4 +1,4 @@
-# CODSOFT-Task1
+# CODSOFT-Task2
 
 # Project:
 Design a simple calculator with basic arithmetic operations.
